@@ -1,0 +1,7 @@
+C:\Users\sahil\MyAspNetApp\myapp\MyAspNetApp.exe
+C:\Users\sahil\MyAspNetApp\myapp\appsettings.Development.json
+C:\Users\sahil\MyAspNetApp\myapp\appsettings.json
+C:\Users\sahil\MyAspNetApp\myapp\MyAspNetApp.dll
+C:\Users\sahil\MyAspNetApp\myapp\MyAspNetApp.deps.json
+C:\Users\sahil\MyAspNetApp\myapp\MyAspNetApp.runtimeconfig.json
+C:\Users\sahil\MyAspNetApp\myapp\MyAspNetApp.pdb
